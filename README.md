@@ -13,6 +13,10 @@ This dashboard aims to provide a comprehensive overview for useful research and 
 - **Capacity Analysis:** Compares the difference between minimum and average installed capacities.
 - **Conditionally Formatted Data View:** Provides a tabular view of data with conditional formatting to highlight key values.
 
+## Dashboard Preview
+
+![PowerBI Dashboard](Renewable_dashboard.png)
+
 ## Getting Started
 
 To get started with this project, follow the installation instructions and explore the various dashboards and analyses available.
